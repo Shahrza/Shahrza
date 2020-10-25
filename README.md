@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything about JS🍋
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Don't share your plans 🤣
-- ⚡ Fun fact: I love to play guitar / cycling
+- ⚡ Fun fact: I love playing guitar / cycling
 
 ### Connect with me:
 
