@@ -4,7 +4,7 @@
 
 ## I'm a JavaScript Developer
 
-- 🔭 I’m currently working on a React.js project
+- 🔭 I’m currently working on a Node.js project
 - 🌱 I’m currently learning everything about JS🍋
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Don't share your plans 🤣
