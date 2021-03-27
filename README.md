@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a Node.js project
 - 🌱 I’m currently learning everything about JS🍋
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Don't share your plans 🤣
+- 🥅 2021 Goals: Don't share your plans 🤣
 - ⚡ Fun fact: I love playing guitar / cycling
 
 ### Connect with me:
