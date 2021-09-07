@@ -1,7 +1,5 @@
 ### Hi there, I'm Shahrza 👋
 
-[![Website](https://img.shields.io/website?label=shahrza.com&style=for-the-badge&url=https%3A%2F%2Fshahrza.com)](https://shahrza.com)
-
 ## I'm a JavaScript Developer
 
 - 🔭 I’m currently working on a Node.js project
