@@ -2,7 +2,6 @@
 
 ## I'm a JavaScript Developer
 
-- 🔭 I’m currently working on a Node.js project
 - 🌱 I’m currently learning everything about JS🍋
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Don't share your plans 🤣
